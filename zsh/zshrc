@@ -1,0 +1,14 @@
+alias ls='exa'
+alias cat='bat'
+alias vim='nvim'
+
+# git
+alias ga='git add'
+alias gap='git add -p'
+alias gc='git commit'
+alias gp='git push'
+
+#docker
+alias dp='docker ps'
+alias dcu='docker compose up'
+alias dcd='docker compose down'
